@@ -1,0 +1,13 @@
+{
+  "name": "examen1-api-items",
+  "version": "1.0.0",
+  "description": "Ejercicio practico - Examen 1 - API Express para gestionar items",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
